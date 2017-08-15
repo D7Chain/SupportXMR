@@ -1,11 +1,11 @@
-# SupportXMR
+# Mineração na SupportXMR
 Para instalar use
 > wget https://raw.githubusercontent.com/D7Chain/SupportXMR/master/cpuminer && bash cpuminer
 
 # Recomendo MyMonero como Wallet Oficial
-                        www.MyMonero.com
+     www.MyMonero.com
 
-use seu XMR para iniciar a mineração.
+Use seu XMR para iniciar a mineração.
 > 495VGw58sT32DXBHHVeQAC8bP5XKBLuFnLtJ4CEb6HXQQqYKAgPk8ypiV31EqWxwEz7Tuq8UTz3AVLbrDYqmmcSe6gVfwYS
 
 Para doar Bitcoins use.
